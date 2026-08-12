@@ -132,7 +132,7 @@
 
 **Effective**: August 9, 2026
 
-**Last updated**: August 13, 2026 (additions for the iOS release)
+**Last updated**: August 12, 2026 (additions for the iOS release)
 
 ---
 
