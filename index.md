@@ -4,6 +4,16 @@
 **개발자**: 01vibecoding
 **문의**: luminwis@gmail.com
 **시행일**: 2026년 8월 9일
+**최종 개정**: 2026년 8월 12일 (iOS 출시에 따른 추가)
+
+---
+
+## 문의·지원
+
+게임에 문제가 있거나 궁금한 점이 있으면 **luminwis@gmail.com** 으로 보내주세요.
+
+- 게임 진행 상황은 **기기 안에만** 저장됩니다. 앱을 삭제하면 복구할 수 없습니다.
+- 광고는 **직접 버튼을 눌렀을 때만** 재생됩니다. 강제로 뜨는 광고는 없습니다.
 
 ---
 
@@ -46,6 +56,15 @@
 - 기기 정보 (모델, 운영체제 버전, 언어, 국가)
 - 대략적인 위치 (IP 주소 기반, 도시 수준)
 - 광고를 보거나 누른 기록
+
+### iOS에서 뜨는 "추적 허용" 창
+
+아이폰·아이패드에서는 게임을 처음 켤 때 **"사용자의 활동을 추적하도록 허용하시겠습니까?"** 라는 창이 한 번 뜹니다. 애플이 정한 절차이며, 여기서 고르신 답에 따라 광고가 달라집니다.
+
+- **허용** — 관심사에 맞는 광고가 나옵니다
+- **허용 안 함** — 광고는 그대로 나오지만 관심사와 무관한 광고가 나옵니다
+
+**어느 쪽을 고르셔도 게임의 모든 내용을 그대로 이용하실 수 있습니다.** 나중에 마음이 바뀌면 설정에서 언제든 바꿀 수 있습니다(아래 참고).
 
 이 정보는 **구글이 수집·처리하며 개발자는 접근할 수 없습니다.** 처리 방식은 구글의 정책을 따릅니다.
 
@@ -105,6 +124,18 @@
 **Developer**: 01vibecoding
 **Contact**: luminwis@gmail.com
 **Effective**: August 9, 2026
+**Last updated**: August 13, 2026 (additions for the iOS release)
+
+---
+
+## Support
+
+If something goes wrong or you have a question, email **luminwis@gmail.com**.
+
+- Your progress is stored **only on your device**. Deleting the app erases it permanently.
+- Ads play **only when you tap an ad button**. Nothing is forced on you.
+
+---
 
 ## Summary
 
@@ -143,6 +174,15 @@ AdMob may collect the following to serve and measure ads:
 - Device information (model, OS version, language, country)
 - Approximate location (city level, derived from IP address)
 - Ad impressions and clicks
+
+### The "Allow Tracking" prompt on iOS
+
+On iPhone and iPad, the game shows Apple's **"Allow this app to track your activity?"** prompt once, the first time you open it. Your answer changes the ads you see.
+
+- **Allow** — you see ads matched to your interests
+- **Ask App Not to Track** — you still see ads, but they are not matched to your interests
+
+**Either way, every part of the game remains fully playable.** You can change your mind at any time in Settings (see below).
 
 This information is **collected and processed by Google. The developer has no access to it.**
 
