@@ -1,9 +1,13 @@
 # 개인정보처리방침
 
 **앱 이름**: 5분만 버텨
+
 **개발자**: 01vibecoding
+
 **문의**: luminwis@gmail.com
+
 **시행일**: 2026년 8월 9일
+
 **최종 개정**: 2026년 8월 12일 (iOS 출시에 따른 추가)
 
 ---
@@ -121,9 +125,13 @@
 # Privacy Policy (English)
 
 **App**: Survive 5 Minutes (5분만 버텨)
+
 **Developer**: 01vibecoding
+
 **Contact**: luminwis@gmail.com
+
 **Effective**: August 9, 2026
+
 **Last updated**: August 13, 2026 (additions for the iOS release)
 
 ---
